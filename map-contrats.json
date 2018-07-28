@@ -1,0 +1,10 @@
+{"customer_id":"%s",
+"contract_id":"%s",
+"date_opened":"%s",
+"product_id":"%s",
+"product_name":"%s",
+"product_category":"%s",
+"product_family":"%s",
+"product_supfamily":"%s",
+"balance":"%s",
+"balance_date":"%s"}
